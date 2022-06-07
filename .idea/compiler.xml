@@ -49,6 +49,15 @@
       <module name="EasyZookeeper.Topics-Declaring_functions-Theory.main" target="11" />
       <module name="EasyZookeeper.Topics-Declaring_functions-Vowel_or_not.main" target="11" />
       <module name="EasyZookeeper.Topics-Declaring_functions-What_should_be_specified.main" target="11" />
+      <module name="EasyZookeeper.Topics-Equality-Equality.main" target="11" />
+      <module name="EasyZookeeper.Topics-Equality-How_to_compare.main" target="11" />
+      <module name="EasyZookeeper.Topics-Equality-How_to_compare__1_.main" target="11" />
+      <module name="EasyZookeeper.Topics-Equality-Kings_of_Sweden.main" target="11" />
+      <module name="EasyZookeeper.Topics-Equality-Referential_equality.main" target="11" />
+      <module name="EasyZookeeper.Topics-Equality-The_same_object.main" target="11" />
+      <module name="EasyZookeeper.Topics-Equality-The_same_object__1_.main" target="11" />
+      <module name="EasyZookeeper.Topics-Equality-Theory.main" target="11" />
+      <module name="EasyZookeeper.Topics-Equality-True_captain.main" target="11" />
       <module name="EasyZookeeper.Topics-Functions_as_objects-Continuation-Passing_Style.main" target="11" />
       <module name="EasyZookeeper.Topics-Functions_as_objects-First-class_citizen.main" target="11" />
       <module name="EasyZookeeper.Topics-Functions_as_objects-First_predicate.main" target="11" />
